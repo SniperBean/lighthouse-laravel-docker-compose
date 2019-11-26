@@ -1,0 +1,3 @@
+[submodule "lighthouse-laravel"]
+	path = lighthouse-laravel
+	url = https://github.com/SniperBean/lighthouse-laravel.git
